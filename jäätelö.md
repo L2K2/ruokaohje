@@ -33,7 +33,9 @@ asennosta riippumatta. Tämä vie yllättävän kauan aikaa, etenkin käsin
 vatkatessa. Astioiden pitää olla erittäin puhtaita ja kuivia.
 
 Lusikoi marenkitaikinasta teelusikalla pieniä puolipalloja leivinpaperilla
-peitetyn uunipellin päälle ja nosta nämä uuniin kuivumaan.
+peitetyn uunipellin päälle ja nosta nämä uuniin kuivumaan. Jos kaikki
+marenkitaikina ei mahdu pellille, niin loput voi myös laittaa osaksi
+jäätelötaikinaa.
 
 Marengit valmistuvat noin 1–2 tunnissa, jonka jälkeen sammuta uuni ja marenkien
 jäähtyä uunissa (uunin luukku kannattaa jättää raolleen, esimerkiksi pannulapun
